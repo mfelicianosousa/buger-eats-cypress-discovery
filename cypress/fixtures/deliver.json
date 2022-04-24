@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Marcelino Feliciano de Sousa",
+        "cpf": "07756074874",
+        "email": "marcelino@hotmail.com",
+        "whatsapp": "65981413390",
+        "address": {
+            "postalCode": "78088120",
+            "street": "Rua Duzentos e Um",
+            "number": "6",
+            "details": "2o Trav Av. Espigao",
+            "district": "Tijucal",
+            "city_state": "Cuiabá/MT"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv" : {
+        "name": "Douglas Santos Feliciano",
+        "cpf": "X77560777AA",
+        "email": "douglas.santos@gmail.com",
+        "whatsapp": "65981219033",
+        "address": {
+            "postalCode": "78088120",
+            "street": "Rua Duzentos e Um",
+            "number": "6",
+            "details": "2o Trav Av. Espigao",
+            "district": "Tijucal",
+            "city_state": "Cuiabá/MT"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Ana Paula S Sousa",
+        "cpf": "61617927844",
+        "email": "anap.gmail.com",
+        "whatsapp": "65941719040",
+        "address": {
+            "postalCode": "78088120",
+            "street": "Rua Duzentos e Um",
+            "number": "6",
+            "details": "2o Trav Av. Espigao",
+            "district": "Tijucal",
+            "city_state": "Cuiabá/MT"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
